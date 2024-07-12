@@ -1,0 +1,13 @@
+*.meta
+
+Temp
+
+Logs
+
+Library
+
+.vs
+
+.vsconfig
+
+Output
